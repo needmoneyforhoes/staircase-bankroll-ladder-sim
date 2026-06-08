@@ -3,7 +3,7 @@
 import re, glob, random
 from collections import defaultdict
 
-PATH = '/home/polybot/polymarket-bot/data/quant_bots_logs_replay/race_test_btc-updown-5m-*.log'
+PATH = './data/quant_bots_logs_replay/race_test_btc-updown-5m-*.log'
 MIN_CD = 15
 M1_BL = 0.58
 M1_BW = 0.23
