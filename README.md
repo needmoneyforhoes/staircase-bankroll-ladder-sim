@@ -33,3 +33,8 @@ python3 sim_staircase_v3.py
 Reads `race_test_btc-updown-5m-*.log` from `$DATA_DIR` (set the `PATH_PATTERN` constant in each script). Logs ship in the private polymarket-data repo, not here. With no logs present the sims load 0 markets and print empty tables.
 
 Python 3.8+, standard library only. No wallet, key, or network access.
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/staircase-bankroll-ladder-sim/issues/new). Pull requests are welcome too.
